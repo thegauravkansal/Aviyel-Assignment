@@ -1,0 +1,11 @@
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install tqdm
+pip install requests
+pip install Flask
+pip install youtube-search-python
+pip install asyncio
+pip install logging
+pip install pathlib
+pip install flask_profiler
